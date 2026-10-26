@@ -1,8 +1,8 @@
 {
- "checked_at_et": "2026-10-26 01:43:57",
+ "checked_at_et": "2026-10-26 12:54:15",
  "date_et": "2026-10-26",
- "step_outcome": "success",
- "log": "sync_2026-10-26_014357.log",
+ "step_outcome": "failure",
+ "log": "sync_2026-10-26_125415.log",
  "warnings": [],
- "summary": "New poems: 0\nTitle collisions resolved: 0\nText/tag refreshes applied: 12\nUntagged poems needing review: 0\nLore compendium entries needing write-up: 2\nTag-count mismatches remaining: 0\nDone."
+ "summary": ""
 }
