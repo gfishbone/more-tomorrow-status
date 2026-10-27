@@ -1,8 +1,8 @@
 {
- "checked_at_et": "2026-10-27 11:59:03",
+ "checked_at_et": "2026-10-27 19:22:16",
  "date_et": "2026-10-27",
  "step_outcome": "success",
- "log": "sync_2026-10-27_115903.log",
+ "log": "sync_2026-10-27_192216.log",
  "warnings": [],
- "summary": "New poems: 2\nTitle collisions resolved: 1\n  'Travel' -> 'Travel II'\nText/tag refreshes applied: 4\nUntagged poems needing review: 0\nLore compendium entries needing write-up: 2\nTag-count mismatches remaining: 0"
+ "summary": "New poems: 0\nTitle collisions resolved: 0\nText/tag refreshes applied: 0\nUntagged poems needing review: 0\nLore compendium entries needing write-up: 2\nTag-count mismatches remaining: 0\nDone."
 }
