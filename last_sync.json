@@ -1,8 +1,8 @@
 {
- "checked_at_et": "2026-10-26 12:54:15",
- "date_et": "2026-10-26",
- "step_outcome": "failure",
- "log": "sync_2026-10-26_125415.log",
+ "checked_at_et": "2026-10-27 11:59:03",
+ "date_et": "2026-10-27",
+ "step_outcome": "success",
+ "log": "sync_2026-10-27_115903.log",
  "warnings": [],
- "summary": ""
+ "summary": "New poems: 2\nTitle collisions resolved: 1\n  'Travel' -> 'Travel II'\nText/tag refreshes applied: 4\nUntagged poems needing review: 0\nLore compendium entries needing write-up: 2\nTag-count mismatches remaining: 0"
 }
