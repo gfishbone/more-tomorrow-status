@@ -1,8 +1,10 @@
 {
- "checked_at_et": "2026-11-01 11:53:48",
- "date_et": "2026-11-01",
+ "checked_at_et": "2026-11-02 02:07:47",
+ "date_et": "2026-11-02",
  "step_outcome": "success",
- "log": "sync_2026-11-01_115348.log",
- "warnings": [],
- "summary": "New poems: 2\nTitle collisions resolved: 0\nText/tag refreshes applied: 4\nUntagged poems needing review: 0\nLore compendium entries needing write-up: 2\nTag-count mismatches remaining: 0\nDone."
+ "log": "sync_2026-11-02_020747.log",
+ "warnings": [
+  "WARNING: could not read riff sources from gfishbone.com: HTTP Error 429: Too Many Requests"
+ ],
+ "summary": "New poems: 0\nTitle collisions resolved: 0\nText/tag refreshes applied: 4\nUntagged poems needing review: 0\nLore compendium entries needing write-up: 2\nTag-count mismatches remaining: 0\nDone."
 }
