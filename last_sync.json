@@ -1,10 +1,10 @@
 {
- "checked_at_et": "2026-11-09 15:59:21",
- "date_et": "2026-11-09",
+ "checked_at_et": "2026-11-10 13:07:48",
+ "date_et": "2026-11-10",
  "step_outcome": "success",
- "log": "sync_2026-11-09_155921.log",
+ "log": "sync_2026-11-10_130748.log",
  "warnings": [],
- "summary": "New poems: 1\nTitle collisions resolved: 0\nText/tag refreshes applied: 0\nUntagged poems needing review: 0\nLore compendium entries needing write-up: 2\nTag-count mismatches remaining: 0\nDone.",
+ "summary": "New poems: 1\nTitle collisions resolved: 0\nText/tag refreshes applied: 1\nUntagged poems needing review: 0\nLore compendium entries needing write-up: 2\nTag-count mismatches remaining: 0\nDone.",
  "warnings_total": 0,
  "warnings_omitted": 0
 }
