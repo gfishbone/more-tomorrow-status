@@ -1,12 +1,12 @@
 {
- "checked_at_et": "2026-11-15 12:21:36",
- "date_et": "2026-11-15",
+ "checked_at_et": "2026-11-16 02:34:37",
+ "date_et": "2026-11-16",
  "step_outcome": "success",
- "log": "sync_2026-11-15_122135.log",
+ "log": "sync_2026-11-16_023437.log",
  "warnings": [
   "WARNING: TITLE COLLISION: No.684 \"Chance\" duplicates an earlier title; the corpus uses \"Chance II\". Rename it on the site: https://gfishbone.com/wp-admin/post.php?post=37269841&action=edit"
  ],
- "summary": "New poems: 1\nTitle collisions resolved: 1\n  'Chance' -> 'Chance II'\nText/tag refreshes applied: 2\nUntagged poems needing review: 0\nLore compendium entries needing write-up: 2\nTag-count mismatches remaining: 0",
+ "summary": "New poems: 0\nTitle collisions resolved: 0\nText/tag refreshes applied: 1\nUntagged poems needing review: 0\nLore compendium entries needing write-up: 2\nTag-count mismatches remaining: 0\nDone.",
  "warnings_total": 1,
  "warnings_omitted": 0
 }
